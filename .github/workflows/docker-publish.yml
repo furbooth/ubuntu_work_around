@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: furbooth/ubuntu_work_around  # Do not include the tag here
+  IMAGE_NAME: furbooth/ubuntu_work_around  
 
 jobs:
   build:
