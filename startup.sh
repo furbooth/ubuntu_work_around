@@ -14,7 +14,7 @@ fi
 # Pull the image
 docker pull ghcr.io/furbooth/dockerhub:latest
 
-# Run the container
+# Run the container 
 docker run -d \
   --gpus all \
   --ipc=host \
