@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: furbooth/ubuntu_work_around  
+  IMAGE_NAME: ghcr.io/furbooth/ubuntu_work_around:v1 
 
 jobs:
   build:
