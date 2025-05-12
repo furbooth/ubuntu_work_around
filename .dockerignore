@@ -1,6 +1,6 @@
-.git
-.github
-*.md
-__pycache__/
-*.pyc
-*.log
+ .git
+__pycache__
+.env
+*.safetensors
+models/
+logs/
